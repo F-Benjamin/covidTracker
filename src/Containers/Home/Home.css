@@ -1,0 +1,8 @@
+.homeContainer {
+  margin-top: 20px;
+  display: flex;
+}
+
+.dataTable {
+  width: 100vh;
+}

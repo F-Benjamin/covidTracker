@@ -1,0 +1,11 @@
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 50px;
+  border-top: solid 1px #e5e5e5;
+}
+
+p {
+  font-size: small;
+}
